@@ -28,4 +28,4 @@ async def btn_click(event) -> None:
     while not await ### IoT側が動作完了したか確認する ###:
         ### 10秒待つ ###
 
-    ### ボタンを失敗マーク成功マークにする ###
+    ### ボタンを成功マークにする ###
